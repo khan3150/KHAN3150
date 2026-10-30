@@ -1,0 +1,17 @@
+{
+  "appId": "com.khan.app3150",
+  "appName": "KHAN 3150",
+  "webDir": "www",
+  "backgroundColor": "#0f0a1f",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1800,
+      "launchAutoHide": true,
+      "backgroundColor": "#0f0a1f",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}
